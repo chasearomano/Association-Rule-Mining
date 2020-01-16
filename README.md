@@ -7,17 +7,6 @@
 Use the Apriori Algorithm to find all frequent item sets and association rules with Minimum Support
 Count = 3 and Minimum Confidence 40%. Calculate support, confidence, and lift for each rule done by hand
 
-TID   ITEM LIST
-100   1, 3, 5, 7
-200   2, 5, 6
-300   1, 2, 5, 7
-400   1, 4, 6
-500   1, 3, 5, 6
-600   3, 6, 7
-700   1, 2, 3, 5
-800   2, 3, 4, 5, 7
-
-
 
 <h6>Market Basket Analysis in SAS</h6>
 
